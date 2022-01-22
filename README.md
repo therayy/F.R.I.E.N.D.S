@@ -1,6 +1,7 @@
 ##### Learning Group
-- Include your First Name & First Intial of your Last name and create an .md file
+- Include your First Name & First Intial of your Last name and create an .md file inside Team folder.
 - Add to that file all your refrences from Links and questions with/without answers.
+- Access Material screenshots and PDF through Material folder
 #### Recordings
 - [Jan-22-2022 1st](https://ibm.webex.com/ibm/ldr.php?RCID=6a9a45a2f8f5bd1d78e7b73ee3600d14)
     - vXrA3BPJ
