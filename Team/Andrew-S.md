@@ -4,6 +4,6 @@
 ---
 ### Learning Materials:
 ---
--   [vid for learning](https://youtu.be/RGOj5yH7evk)
+- [Vid for learning](https://youtu.be/RGOj5yH7evk)
 ### Questions & Answers:
 ---
