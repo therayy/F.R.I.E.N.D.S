@@ -1,5 +1,5 @@
 ## GIT Learnings
 
-[linkedin](https://www.linkedin.com/in/hanywafae) 
+* [linkedin](https://www.linkedin.com/in/hanywafae) 
 
 
