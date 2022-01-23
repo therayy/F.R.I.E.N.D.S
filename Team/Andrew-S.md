@@ -1,6 +1,6 @@
 ## Andrew Sherif
 ---
-[Linkedin](https://www.linkedin.com/in/andrewgobrial) - [facebook](https://www.facebook.com/andrew.sherif.900) - [email](andrew.gobrial@protonmail.com)
+[Linkedin](https://www.linkedin.com/in/andrewgobrial) - [Facebook](https://www.facebook.com/andrew.sherif.900) - [Email](andrew.gobrial@protonmail.com) - [Git Account](https://github.com/Andrewzz1)
 
 <a href="https://www.linkedin.com/in/andrewgobrial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrewgobrial" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andrew_sheriif/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andrew_sheriif" height="30" width="40" /></a>
