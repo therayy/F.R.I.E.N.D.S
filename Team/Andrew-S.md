@@ -1,7 +1,7 @@
 ## Andrew Sherif
 ---
 
-## <p align="center">
+
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
 <a href="https://mobile.twitter.com/andrewsherif6?t=rnpofxQjrhA9-9smNLp2ZQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
