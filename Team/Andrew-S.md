@@ -1,3 +1,4 @@
+---
 ## Andrew Sherif
 ---
 
@@ -10,12 +11,15 @@
 <a href="https://www.facebook.com/andrew.sherif.900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew sherif" height="30" width="40" /></a>
 
 <a href="andrew.gobrial@protonmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg" height="30" width="40" ></a>
-- [Git Account](https://github.com/Andrewzz1)
+<a href="https://github.com/Andrewzz1">
+<img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
 
 ---
 ### Learning Materials:
----
+
 - [Vid for learning](https://youtu.be/RGOj5yH7evk)
+---
 ### Questions & Answers:
 ---
 
