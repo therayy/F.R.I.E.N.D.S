@@ -13,7 +13,7 @@
 <a href="andrew.gobrial@protonmail.com" alt="Email me"><img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/svg/mail.svg" height="30" width="40" ></a>
 <a href="https://github.com/Andrewzz1">
 <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<a href="andrewsherif40@gmail.com"><img src="https://img.shields.io/badge/-andrewsherif40@gmail.com-c14438?logo=Gmail&amp;logoColor=white&amp;link=mailto:andrewsherif40@gmail.com" alt="Gmail Badge" height="25"></a></h2>  
+<a href="andrewsherif40@gmail.com"><img src="https://img.shields.io/badge/-andrewsherif40@gmail.com-c14438?logo=Gmail&amp;logoColor=white&amp;link=mailto:andrewsherif40@gmail.com" alt="Gmail Badge" height="22"></a></h2>  
 
 
 
