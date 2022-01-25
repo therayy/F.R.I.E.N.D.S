@@ -19,7 +19,8 @@
 ---
 ### Learning Materials:
 
-- [Vid for learning](https://youtu.be/RGOj5yH7evk)
+- [Vid for learning git +1hour](https://youtu.be/RGOj5yH7evk)
+- [vid for learning git 30 min](https://youtu.be/SWYqp7iY_Tc)
 ---
 ### Questions & Answers:
 ---
