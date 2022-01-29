@@ -8,4 +8,7 @@ format for the links "[Label] (URL)" Don't forget to remove the space between th
 - Download and setup ur Virtual environment.
 - Watch [Installing Virtual Machine](https://www.youtube.com/watch?v=x5MhydijWmc)
 - Download Ubuntu Version [Ubuntu 20.04.3 LTS](https://ubuntu.com/download/desktop)
-
+---
+Jan 29 2022 tasks:
+- Install enviroment
+- Create your own branch and make changes by adding your name in the read me.
