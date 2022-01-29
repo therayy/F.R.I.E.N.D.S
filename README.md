@@ -18,5 +18,13 @@
 - Videos to support [How to install Ubunutu osboxes image ](https://www.youtube.com/watch?v=x5MhydijWmc)
 or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y) 
 
-### Ray was here
+#### Recordings: 
+- [Questions & Answers](https://ibm.webex.com/ibm/ldr.php?RCID=c318b330f7a726bbea8269735d95a6fe)
+    - zJ9XWss5
+- [Command line & Git intro](https://ibm.webex.com/ibm/ldr.php?RCID=319dfa6496f5a2143e4dc36e7a6a8fe5)
+    - cCvJTbu5
+- [Git clone & PR](https://ibm.webex.com/ibm/ldr.php?RCID=842907eabbc86d8578766df905ea520a)
+    - tSZUzKh6
+---
 
+### Ray was here
