@@ -1,4 +1,4 @@
-##### Learning Group
+### Learning Group
 - Include your First Name & First Intial of your Last name and create an .md file inside Team folder.
 - Add to that file all your refrences from Links and questions with/without answers.
 - Access Material screenshots and PDF through Material folder
@@ -9,11 +9,12 @@
     - 9NiYq2Mqg52  
 ---
 #### Jan 29 2022
-##### Enviroment setup
+#### Enviroment setup
 1. Download and Install VirtualBox "Upon your windows version (x64 or x32)
 2. Download Ubuntu 20.04.3 LTS from [osboxes](https://www.osboxes.org/?s=20.04.3+LTS&post_type=post)
 3. Makes sure to accesss using Username – osboxes, Password – osboxes.org
 4. Download and configure PuTTy
 
 - Videos to support [How to install Ubunutu osboxes image ](https://www.youtube.com/watch?v=x5MhydijWmc)
-or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
+or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y) 
+## saving vi
