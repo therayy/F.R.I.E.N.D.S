@@ -28,5 +28,5 @@
 ---
 
 
-<code><a href="andrew.gobrial@protonmail.com" title="mail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/mail.svg">mail</a></code>
+<code><a href="andrew.gobrial@protonmail.com" title="mail"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">mail</a></code>
  
