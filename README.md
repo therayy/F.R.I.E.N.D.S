@@ -37,3 +37,4 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 ## Add your name here through your OWN BRANCH please
 ### Ray was here
 ### Mike was here
+### Mina was here
