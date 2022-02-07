@@ -34,6 +34,13 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
     - 5JedYt3E
 - [Details and playing around with git](https://ibm.webex.com/ibm/ldr.php?RCID=71d6de918327736364b0bef2de2b27fe) 
     - Mvt2QeJE
+---
+### Feb 5 2022
+### Recordings:
+- [John meeting](https://ibm.webex.com/ibm/ldr.php?RCID=84e86601ce1681784d284d5db680de7f)
+   - JcKckcV3
+---
+
 ## Add your name here through your OWN BRANCH please
 ### Ray was here
 ### Mike was here
