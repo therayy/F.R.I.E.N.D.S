@@ -1,4 +1,5 @@
- ### Learning Group
+
+### Learning Group
 - Include your First Name & First Intial of your Last name and create an .md file inside Team folder.
 - Add to that file all your refrences from Links and questions with/without answers.
 - Access Material screenshots and PDF through Material folder
@@ -49,3 +50,4 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 #### Great things happen to those who don’t stop believing, trying, learning, and being grateful. – Roy T. Bennet 
 ## Ragi was here 
 ### Hello! from Veronia
+## HI
