@@ -49,3 +49,4 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 #### Great things happen to those who don’t stop believing, trying, learning, and being grateful. – Roy T. Bennet 
 ## Ragi was here 
 ### Hello! from Veronia
+hi 
