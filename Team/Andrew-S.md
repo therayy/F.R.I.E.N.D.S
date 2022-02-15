@@ -23,6 +23,7 @@
 - [vid for learning git crash course 30 min](https://youtu.be/SWYqp7iY_Tc)
 - [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [ what is docker video 40 min](https://youtu.be/konAsZCudrA)
+- [ download and install git on MacBook m1](https://youtu.be/0Icla6TVNNo)
 
 ---
 ### Questions & Answers:
