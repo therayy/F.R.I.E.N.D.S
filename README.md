@@ -1,4 +1,3 @@
-
 ### Learning Group
 - Include your First Name & First Intial of your Last name and create an .md file inside Team folder.
 - Add to that file all your refrences from Links and questions with/without answers.
@@ -47,9 +46,9 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 ### Mike was here
 ### Hany was here
 ### Mina was here
+### andrews was here
 #### Great things happen to those who don’t stop believing, trying, learning, and being grateful. – Roy T. Bennet 
 ## Ragi was here 
 ### Hello! from Veronia
 ## HI
 # practicing 
-
