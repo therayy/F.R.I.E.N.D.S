@@ -26,6 +26,21 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 - [Git clone & PR](https://ibm.webex.com/ibm/ldr.php?RCID=842907eabbc86d8578766df905ea520a)
     - tSZUzKh6
 ---
+### Feb 3 2022 
+#### Recordings:
+- [Questions & Answers](https://ibm.webex.com/ibm/ldr.php?RCID=a45f7def6e9318388a91d02bf3e358c7)
+    - NcwgMEy4
+- [Start over](https://ibm.webex.com/ibm/ldr.php?RCID=a564c557f05294c266bfd3b8faa63eda)
+    - 5JedYt3E
+- [Details and playing around with git](https://ibm.webex.com/ibm/ldr.php?RCID=71d6de918327736364b0bef2de2b27fe) 
+    - Mvt2QeJE
+---
+### Feb 5 2022
+### Recordings:
+- [John meeting](https://ibm.webex.com/ibm/ldr.php?RCID=84e86601ce1681784d284d5db680de7f)
+   - JcKckcV3
+---
+
 ## Add your name here through your OWN BRANCH please
 ### Ray was here
-## Ragi was Here 
+
