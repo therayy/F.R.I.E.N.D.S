@@ -52,5 +52,6 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 ### Hello! from Veronia
 ## HI
 # practicing
-testing vi
+
+
  
