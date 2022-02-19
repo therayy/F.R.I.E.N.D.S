@@ -1,6 +1,6 @@
 ## TASKS
 ---
-- Fork Friends Repo
+- Fork Friends [REPO](https://github.com/therayy/therayy)
 - Clone
 - create branch 
 - add in the read me a group name 
