@@ -47,12 +47,9 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 ### Hany was here
 ### Mina was here
 ### andrews was here
-#### Great things happen to those who don’t stop believing, trying, learning, and being grateful. – Roy T. Bennet 
-## Ragi was here 
+### Ragi was here 
 ### Hello! from Veronia
-## HI
-# practicing
-# sameh H was here
+### sameh H was here
 ### Paula was here
 
  
