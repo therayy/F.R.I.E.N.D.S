@@ -33,6 +33,7 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 - [Start over](https://ibm.webex.com/ibm/ldr.php?RCID=a564c557f05294c266bfd3b8faa63eda)
     - 5JedYt3E
 - [Details and playing around with git](https://ibm.webex.com/ibm/ldr.php?RCID=71d6de918327736364b0bef2de2b27fe) 
+- [how to start pull request] (https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
     - Mvt2QeJE
 ---
 ### Feb 5 2022
