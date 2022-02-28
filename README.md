@@ -45,6 +45,11 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 - [pull req git & branches](https://ibm.webex.com/ibm/ldr.php?RCID=84e86601ce1681784d284d5db680de7f)
    - WmDwqAE
 ---
+### Feb 26 2022
+### Recordings:
+- [what is docker , 30 min Linkedin](https://ibm.webex.com/ibm/ldr.php?RCID=9391cb195017e5ca52616edd5f95b66b)
+   - QmVErcg3
+---
 
 ## Add your name here through your OWN BRANCH please
 ### Ray was here
