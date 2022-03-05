@@ -69,4 +69,4 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 
 
 
-team 1  
+team 1 andrew , mina , george  
