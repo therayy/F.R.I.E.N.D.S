@@ -50,6 +50,11 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 - [what is docker , 30 min Linkedin](https://ibm.webex.com/ibm/ldr.php?RCID=9391cb195017e5ca52616edd5f95b66b)
    - QmVErcg3
 ---
+### march 5 2022
+### Recordings:
+- [docker images, containers and clone a git repo inside Ubuntu image](https://ibm.webex.com/ibm/ldr.php?RCID=b607665ef69d7a6fd40595f67452c3b2)
+   - yXv3AmcJ 
+---
 
 ## Add your name here through your OWN BRANCH please
 ### Ray was here
