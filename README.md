@@ -54,6 +54,9 @@ or [Ubuntu install](https://www.youtube.com/watch?v=xg5Wvi_Bu1Y)
 ### Recordings:
 - [docker images, containers and clone a git repo inside Ubuntu image](https://ibm.webex.com/ibm/ldr.php?RCID=b607665ef69d7a6fd40595f67452c3b2)
    - yXv3AmcJ 
+-### Recordings:
+- [Ansible introduction](https://ibm.webex.com/ibm/ldr.php?RCID=14ec3ed2975ce56ce5171923c0136074)
+- ## password 7MvRyvbe
 ---
 
 ## Add your name here through your OWN BRANCH please
