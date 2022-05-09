@@ -19,7 +19,8 @@
 ---
 ### Learning Materials:
 
-- [Vid for learning git crash course +1hour](https://youtu.be/RGOj5yH7evk)
+- [Vid for learning git crash course +1hour] (https://www.youtube.com/watch?v=iik25wqIuFo) 
+- [Rick roll](https://youtu.be/RGOj5yH7evk)
 - [vid for learning git crash course 30 min](https://youtu.be/SWYqp7iY_Tc)
 - [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [ what is docker video 40 min](https://youtu.be/konAsZCudrA)
